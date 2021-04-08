@@ -1,0 +1,9 @@
+C:\Users\borov\Desktop\Doom\Doom3D\Doom3D\obj\Debug\Doom3D.csprojAssemblyReference.cache
+C:\Users\borov\Desktop\Doom\Doom3D\Doom3D\obj\Debug\Doom3D.Properties.Resources.resources
+C:\Users\borov\Desktop\Doom\Doom3D\Doom3D\obj\Debug\Doom3D.csproj.GenerateResource.cache
+C:\Users\borov\Desktop\Doom\Doom3D\Doom3D\obj\Debug\Doom3D.csproj.CoreCompileInputs.cache
+C:\Users\borov\Desktop\Doom\Doom3D\Doom3D\bin\Debug\Doom3D.exe.config
+C:\Users\borov\Desktop\Doom\Doom3D\Doom3D\bin\Debug\Doom3D.exe
+C:\Users\borov\Desktop\Doom\Doom3D\Doom3D\bin\Debug\Doom3D.pdb
+C:\Users\borov\Desktop\Doom\Doom3D\Doom3D\obj\Debug\Doom3D.exe
+C:\Users\borov\Desktop\Doom\Doom3D\Doom3D\obj\Debug\Doom3D.pdb
